@@ -1,0 +1,492 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.container {
+    width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+}
+body {
+    font-family: sans-serif;
+}
+.tepa-katta {
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+}
+.tepa-kichikroq {
+    display: flex;
+}
+li {
+    list-style: none;
+}
+.demons {
+    margin-bottom: 10px;
+}
+.demons-2 {
+    position: absolute;
+    display: none;
+    width: 190px;
+
+}
+.omega {
+    padding: 10px;
+} 
+.fonts:hover {
+    color: black;
+}
+.button {
+    padding: 12px 25px;
+    background: #F04037;
+    border: 1px solid #C31A12;
+    border-radius: 5px;
+    color: #fff;
+    transition: color 1s ease;
+    transition: background-color 0.2s ease;
+}
+#button {
+    color: #fff;
+    padding: 12px 25px;
+    background: #F04037;
+    border: 1px solid #C31A12;
+    border-radius: 5px;
+    transition: color 1s ease;
+    transition: background-color 0.2s ease;
+}
+.left {
+    margin-left: 10px;
+}
+a {
+    text-decoration: none;
+}
+.demons:hover .demons-2{
+    display: block;
+    margin-top: 15px;
+    height: 170px;
+    border-radius: 2px;
+    border-top: 2px solid #5454D4;
+    box-shadow: 0px 52px 54px rgba(65, 62, 101, 0.296766);
+    border-radius: 0px 0px 10px 10px;
+    background-color: #fff;
+}
+.demons-4 {
+    display: none;
+    position: absolute;
+    margin-left: -180px; 
+    margin-top: -20px;
+    width: 170px;
+    background-color: #fff;
+    border-top: 2px solid #F04037;
+    box-shadow: 0px 52px 54px rgba(65, 62, 101, 0.296766);
+    border-radius: 0px 0px 10px 10px;
+}
+.demons-5:hover .demons-4 {
+    display: block;
+}
+.img-3 {
+    margin-left: 10px;
+    padding-top: 4px;
+    
+}
+.demons:hover .img2 {
+    display: inline-block;
+    
+}
+.img1 {
+    width: 12px;
+}
+.img2 {
+    width: 15px;
+    position: absolute;
+    margin-top: px;
+    display: none;
+}
+.demons-2 li {
+    padding: 10px 20px;
+}
+.demons-3 {
+    padding: 10px;
+}
+.katta-orta-tepa {
+    display: flex;
+}
+.tepa-sarlavha {
+    margin-top: 120px;
+    margin-left: 100px;
+}
+.tepa-sarlavha h2 {
+    font-size: 60px;
+    width: 450px;
+}
+.img-5 {
+    margin-top: 90px;
+    width: 420px;
+    margin-left: 40px;
+}
+.tepa-sarlavha p {
+    width: 500px;
+    margin-top: 10px;
+    font-size: 21px;
+    line-height: 39px;
+    letter-spacing: -0.656526px;
+    color: #696871;
+    margin-bottom: 30px;
+}
+#orta-link {
+   margin-top: 22px;
+}
+.fonts {
+    font-size: 14px;
+}
+.tepa-paski {
+    margin-top: 150px;
+}
+.tepa-paski p {
+    margin-left: 100px;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: -0.562737px;
+    color: #696871;
+}
+.tepa-paski hr {
+    margin-left: 425px;
+    margin-top: -15px;
+}
+.tepa-paski-img img {
+    width: 110px;
+    margin: 25px 50px;
+    filter: grayscale(100%);
+    transition: filter 0.2s ease;
+}
+#button:hover {
+    background-color: #fff;
+    color: red;
+}
+.tepa-paski-img {
+    margin-left: 58px;
+}
+.button:hover {
+    background-color: #fff;
+    color: red;
+}
+.tepa-paski-img img:hover {
+    filter: grayscale(0%);
+    cursor: pointer;
+} 
+.rasm-uchun {
+    background-image: url(../img/oval.png);
+    background-repeat: no-repeat;
+    background-size: 560px;
+    background-position: top left;
+}
+/* section tugatildi */
+/* yangi section boshlandi */
+.tepa-2-1 {
+    display: flex;
+    margin-left: 50px;
+}
+.tepa-orginal {
+    padding-top: 150px;
+    margin-top: 80px;
+    display: flex;
+}
+.tepa-2-2 {
+    box-shadow: 0px 0px 52px 54px rgba(65, 62, 101, 0.296766);
+    background-color: #fff;
+    width: 220px;
+    margin: 20px;
+    border-radius: 10px;
+    transition: transform 1s ease;
+}
+.tepa-2-2 img {
+    margin-top: 15px;
+    padding: 10px 15px;
+}
+.tepa-2-2 h3 {
+    padding: 10px 15px;
+}
+.tepa-2-2 p {
+    padding: 10px 15px;
+    margin-bottom: 15px;
+}
+.tepa-2-3 {
+    margin-top: 130px;
+    margin-left: 40px;
+    width: 800px;
+    margin-bottom: 250px;
+}
+.tepa-2-3 h2 {
+    color: #fff;
+    font-size: 55px;
+    line-height: 70px;
+    letter-spacing: -1.87579px;
+}
+.hover-1:hover {  
+    transform: translate(-10%, -10%);
+    cursor: pointer;
+}
+.hover-2:hover {  
+    transform: translate(10%, -10%);
+    cursor: pointer;
+}
+.hover-3:hover {  
+    transform: translate(-10%, 10%);
+    cursor: pointer;
+}
+.hover-4:hover {  
+    transform: translate(10%, 10%);
+    cursor: pointer;
+}
+.tepa-2-3 p {
+    margin-bottom: 30px;
+    margin-top: 15px;
+    font-size: 18px;
+    line-height: 35px;
+    color: rgba(255, 255, 255, 0.702469);
+}
+.tepa-2-3 a {
+    border: 1px solid #EAE9F2;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: #fff;
+    transition: background-color 1s ease;
+
+}
+.tepa-2-3 a:hover {
+    text-decoration: underline;
+    background-color: #fff;
+    color: blue;
+   
+}
+.rasm-uchun-2 {
+    background-color: #fff;
+    background-image:  url(../img/paski-oval-1.svg), url(../img/rasm11.png);
+    background-repeat: no-repeat;
+    background-size: contain cover;
+    background-position: bottom -1% center, top center;
+}
+.keraksiz {
+    margin-bottom: 200px;
+}
+/* section tugatildi */
+/* yangi section boshlandi */
+
+
+.eng-oson {
+    margin-top: 80px;
+    display: flex;
+}
+.eng-oson-1 {
+    margin-top: 120px;
+    margin-left: 50px;
+}
+.eng-oson-1 h2 {
+    font-size: 55px;
+    width: 560px;
+}
+.eng-oson-1 p {
+    width: 520px;
+    margin-top: 15px;
+    font-size: 21px;
+    line-height: 39px;
+    letter-spacing: -0.656526px;
+    color: #696871;
+    margin-bottom: 40px;
+}
+.orta-argenal {
+    padding-top: 200px;
+    display: flex;
+    margin-top: 200px;
+}
+.orta-2 {
+    margin-left: 40px;
+    margin-top: 100px;
+}
+.orta-2 h2 {
+    font-size: 60px;
+    line-height: 70px;
+}
+.orta-2 p {
+    margin-top: 20px;
+    font-size: 21px;
+    line-height: 39px;
+    letter-spacing: -0.656526px;
+    color: #696871;
+}
+.orta-3 {
+    width: 350px;
+    display: flex;
+    margin-top: 20px;
+    border: 1px solid white;
+    border-radius: 10px;
+    transition: border 1s ease;
+}
+.orta-3:hover {
+    border: 1px solid black;
+    cursor: pointer;
+}
+.orta-3 img {
+    margin-top: 10px;
+    margin: 10px;
+}
+.orta-4 {
+    margin-top: -10px;
+}
+.orta-4 p {
+    font-weight: bold;
+   color: #19191B;
+}
+.rasm-uchun-3 {
+    background-image: url(../img/bg-img-3.png), url(../img/bg-img-2.png);
+    background-repeat: no-repeat;
+    background-size: contain cover;
+    background-position: top -200 center, center;
+}
+/* section tugatildi */
+/* yangi section  */
+.komment {
+    display: flex;
+}
+.komment-2 {
+    display: flex;
+    padding: 10px;
+    margin: 10px 25px;
+    width: 400px;
+}
+.heding h2 {
+    margin-bottom: 40px;
+    margin-top: 100px;
+    text-align: center;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 60px;
+    line-height: 70px;
+    text-align: center;
+    letter-spacing: -1.87579px;
+    color: #19191B;
+}
+.komment-2 img {
+    padding: 10px;
+}
+.qushcha {
+    height: 50px;
+    width: 50px;
+    margin-top: 4px;
+    margin-left: 50px;
+}
+.komment-3 {
+    margin-top: 12px;
+}
+.komment-5 {
+    padding: 10px;
+    margin: 0px 36px;
+    font-size: 21px;
+    line-height: 39px;
+    letter-spacing: -0.656526px;
+}
+.komment-6 {
+    display: flex;
+}
+.pasroq-ohri {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+.pasroq-ohri a {
+    margin-left: 10px;
+}
+/* section tugatildi  */
+/* songi section */
+.input-qismi {
+    padding-top: 150px;
+    margin-top: 150px;
+}
+.input-qismi h2 {
+    font-size: 45px;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+}
+.input-qismi p {
+    margin-top: 15px;
+    width: 520px;
+    text-align: center;
+    margin-left: 320px;
+    font-size: 21px;
+    line-height: 39px
+    letter-spacing: -0.656526px;
+    margin-bottom: 20px;
+    color: rgba(255, 255, 255, 0.7);
+}
+.input1 {
+    width: 400px;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 10px;
+    margin-left: 380px;
+}
+button {
+    width: 400px;
+    margin-top: 5px;
+    border-radius: 10px;
+    padding: 15px;
+    margin-left: 380px;
+    background: #F04037;
+    color: white;
+    font-size: 21px;
+}
+.deyarli-ohiri {
+    display: flex;
+    margin-left: 40px;
+}
+.deyarli-ohiri li {
+    padding: 10px 40px;
+    color: #fff;
+}
+.ohiri {
+    margin-top: 100px;
+    display: flex;
+    margin-left: 70px;
+}
+.ohiri h3 {
+    color: #fff;
+}
+.dyarli-ohiri-2 li {
+    margin-top: 10px;
+    margin-left: -40px;
+    line-height: 1px;
+}
+.dyarli-ohiri-2 a {
+    color: rgba(255, 255, 255, 0.7);
+}
+.eng-ohiri {
+    margin-top: 80px;
+
+}
+.eng-ohiri hr {
+    margin-left: 60px;
+    width: 1100px;
+}
+.songi-class {
+    display: flex;
+    justify-content: space-between;
+}
+.songi-class p {
+    font-size: 12px;
+    margin-left: -50px;
+}
+.eng-ohiri-img {
+    padding: 10px;
+}
+.rasm-uchun-5 {
+    background-color: #fff;
+    background-image: url(../img/galati.png), url(../img/ohiri.png);
+    background-repeat: no-repeat;
+    background-size: contain cover;
+    background-position: top center, top center;
+
+}
