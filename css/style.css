@@ -11,6 +11,83 @@
 body {
     font-family: sans-serif;
 }
+@media (max-width: 1140px){
+    .container {
+        width: 1100px;
+    }
+    .katta-orta-tepa {
+        display: block;
+    }
+}
+@media (max-width: 1040px){
+    .container {
+        width: 900px;
+    }
+    .tepa-paski-img img {
+        width: 80px;
+        margin: 15px 10px;
+        filter: grayscale(100%);
+        transition: filter 0.2s ease;
+    }
+    .katta-orta-tepa {
+        display: block;
+    }
+
+}
+@media (max-width: 940px){
+    .container {
+        width: 800px;
+    }
+    .tepa-paski-img img {
+        width: 80px;
+        margin: 15px 10px;
+        filter: grayscale(100%);
+        transition: filter 0.2s ease;
+    }
+    .katta-orta-tepa {
+        display: block;
+    }
+}
+@media (max-width: 840px){
+    .container {
+        width: 700px;
+    }
+    .katta-orta-tepa {
+        display: block;
+    }
+    .tepa-paski-img img {
+        width: 80px;
+        margin: 15px 10px;
+        filter: grayscale(100%);
+        transition: filter 0.2s ease;
+    }
+}
+@media (max-width: 740px){
+    .container {
+        width: 600px;
+    }
+    .katta-orta-tepa {
+        display: block;
+    }
+}
+.@media (max-width: 640px){
+    .container {
+        width: 500px;
+    }
+    .katta-orta-tepa {
+        display: block;
+    }
+}
+@media (max-width: 540px){
+    .container {
+        width: 400px;
+    }
+}
+@media (max-width: 440px){
+    .container {
+        width: 300px;
+    }
+}
 .tepa-katta {
     display: flex;
     padding: 10px;
@@ -481,6 +558,14 @@ button {
 }
 .eng-ohiri-img {
     padding: 10px;
+    transition: skew 0.5s ease;
+}
+.eng-ohiri-img:hover {
+    cursor: pointer;
+    transform: skew(1.5);
+}
+.eng-ohiri-img img {
+    margin: 0px 5px;
 }
 .rasm-uchun-5 {
     background-color: #fff;
