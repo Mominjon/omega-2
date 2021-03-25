@@ -1,0 +1,1405 @@
+@media (max-width: 1140px) {
+    .container {
+        width: 1000px;
+    }
+    .eng-ohiri-img {
+        margin-right: 20px;
+    }
+    .orta-2 p {
+        width: 450px;
+    }
+}
+@media (max-width: 1040px) {
+    .container {
+        width: 900px;
+    }
+    .deyarli-ohiri {
+        display: flex;
+        margin-left: 20px;
+    }
+    .deyarli-ohiri li {
+        padding: 10px 35px;
+        color: #fff;
+    }
+    .rasm-uchun-5 {
+        background-color: #fff;
+        background-image: url(../img/galati.png), url(../img/ohiri.png);
+        background-repeat: no-repeat;
+        background-size: contain cover, 1140px;
+        background-position: top center, top center;
+    
+    }
+    .rasm-uchun-3 {
+        background-image: url(../img/bg-img-3.png), url(../img/bg-img-2.png);
+        background-repeat: no-repeat;
+        background-size: contain cover, 1140px;
+        background-position: top -200 center, center;
+    }
+    .rasm-uchun-2 {
+        background-image: none;
+        background: #5454D4;
+        /* background-color: #fff;
+        background-image:  url(../img/paski-oval-1.svg), url(../img/rasm11.png);
+        background-repeat: no-repeat;
+        background-size: contain cover, contain;
+        background-position: bottom -2% center, top center; */
+    }
+    .rasm-uchun {
+        background-image: url(../img/oval.png);
+        background-repeat: no-repeat;
+        background-size: 560px;
+        background-position: top left;
+    }
+    .tepa-2-1 {
+        margin-left: 200px;
+    }
+    .orta-argenal {
+        display: block;
+        margin-left: 150px;
+    }
+    .tuzatish-2 {
+        margin-left: 280px;
+        margin-top: 250px;
+        position: absolute;
+    }
+    .pasroq-ohri {
+        margin-top: 400px;
+    }
+    .tuzatish-1 {
+        width: 350px;
+        position: absolute;
+        margin-top: 240px;
+        margin-left: 280px;
+    }
+    .orta-2 {
+        width: 500px;
+    }
+    .tepa-2-3 {
+        margin-bottom: 100px;
+        padding-bottom: 100px;
+    }
+    .img-5 {
+        margin-left: 200px;
+    }
+    .tepa-sarlavha {
+        margin-left: 200px;
+    }
+    .tepa-2-3 h2 {
+        width: 500px;
+        margin-left: 200px;
+    }
+    .eng-oson-1 {
+        margin-left: 200px;
+    }
+    .katta-orta-tepa {
+        display: block;
+    }
+    .tepa-2-3 p {
+        margin-left: 200px;
+        width: 450px;
+    }
+    .input-qismi p {
+        margin-top: 15px;
+        width: 520px;
+        text-align: center;
+        margin-left: 200px;
+        font-size: 21px;
+        line-height: 39px
+        letter-spacing: -0.656526px;
+        margin-bottom: 20px;
+        color: rgba(255, 255, 255, 0.7);
+    }
+    button {
+        width: 400px;
+        margin-top: 5px;
+        border-radius: 10px;
+        padding: 15px;
+        margin-left: 260px;
+        background: #F04037;
+        color: white;
+        font-size: 21px;
+    }
+    .input1 {
+        width: 400px;
+        border-radius: 10px;
+        padding: 20px;
+        margin-top: 10px;
+        margin-left: 260px;
+    }
+    .eng-oson-img {
+        margin-left: 150px;
+        margin-top: 100px;
+    }
+    .eng-oson {
+        display: block;
+    }
+    .tepa-2-3 a {
+        margin-left: 200px;
+    }
+    /* .eng-ohiri-img {
+        margin-right: 120px;
+    } */
+    .tepa-orginal {
+        display: block;
+
+    }
+    .tepa-paski-img img {
+        width: 110px;
+        margin: 20px 30px;
+        filter: grayscale(100%);
+        transition: filter 0.2s ease;
+    }
+    /* .tepa-kichikroq {
+        margin-right: 100px;
+    } */
+    .orta-2 p {
+        width: 400px;
+    }
+}
+@media (max-width: 940px) {
+    .container {
+        width: 800px;
+    }
+    .deyarli-ohiri {
+        display: flex;
+        margin-left: 20px;
+    }
+    .deyarli-ohiri li {
+        padding: 10px 35px;
+        color: #fff;
+    }
+    .rasm-uchun-5 {
+        background-color: #fff;
+        background-image: url(../img/galati.png), url(../img/ohiri.png);
+        background-repeat: no-repeat;
+        background-size: contain cover, 1140px;
+        background-position: top center, top center;
+    
+    }
+    .rasm-uchun-3 {
+        background-image: url(../img/bg-img-3.png), url(../img/bg-img-2.png);
+        background-repeat: no-repeat;
+        background-size: contain cover, 1140px;
+        background-position: top -200 center, center;
+    }
+    .rasm-uchun-2 {
+        background-image: none;
+        background: #5454D4;
+        /* background-color: #fff;
+        background-image:  url(../img/paski-oval-1.svg), url(../img/rasm11.png);
+        background-repeat: no-repeat;
+        background-size: contain cover, contain;
+        background-position: bottom -2% center, top center; */
+    }
+    .rasm-uchun {
+        background-image: url(../img/oval.png);
+        background-repeat: no-repeat;
+        background-size: 560px;
+        background-position: top left;
+    }
+    .tepa-2-1 {
+        margin-left: 100px;
+    }
+    .orta-argenal {
+        display: block;
+        margin-left: 100px;
+    }
+    .tuzatish-2 {
+        margin-left: 200px;
+        margin-top: 250px;
+        position: absolute;
+    }
+    .pasroq-ohri {
+        margin-top: 400px;
+    }
+    .tuzatish-1 {
+        width: 350px;
+        position: absolute;
+        margin-top: 240px;
+        margin-left: 200px;
+    }
+    .orta-2 {
+        width: 500px;
+    }
+    .tepa-2-3 {
+        margin-bottom: 100px;
+        padding-bottom: 100px;
+        margin-left: -50px;
+    }
+    .img-5 {
+        margin-left: 200px;
+    }
+    .tepa-sarlavha {
+        margin-left: 200px;
+    }
+    .tepa-2-3 h2 {
+        width: 500px;
+        margin-left: 200px;
+    }
+    .eng-oson-1 {
+        margin-left: 200px;
+    }
+    .katta-orta-tepa {
+        display: block;
+    }
+    .tepa-2-3 p {
+        margin-left: 200px;
+        width: 450px;
+    }
+    .input-qismi p {
+        margin-top: 15px;
+        width: 520px;
+        text-align: center;
+        margin-left: 150px;
+        font-size: 21px;
+        line-height: 39px
+        letter-spacing: -0.656526px;
+        margin-bottom: 20px;
+        color: rgba(255, 255, 255, 0.7);
+    }
+    button {
+        width: 400px;
+        margin-top: 5px;
+        border-radius: 10px;
+        padding: 15px;
+        margin-left: 200px;
+        background: #F04037;
+        color: white;
+        font-size: 21px;
+    }
+    .input1 {
+        width: 400px;
+        border-radius: 10px;
+        padding: 20px;
+        margin-top: 10px;
+        margin-left: 200px;
+    }
+    .eng-oson-img {
+        margin-left: 100px;
+        margin-top: 100px;
+    }
+    .eng-oson {
+        display: block;
+        margin-left: -100px;
+    }
+    .tepa-2-3 a {
+        margin-left: 200px;
+    }
+    /* .eng-ohiri-img {
+        margin-right: 120px;
+    } */
+    .tepa-orginal {
+        display: block;
+
+    }
+    .eng-ohiri-img {
+        display: none;
+    }
+    .tepa-paski-img img {
+        width: 110px;
+        margin: 20px 30px;
+        filter: grayscale(100%);
+        transition: filter 0.2s ease;
+    }
+    /* .tepa-kichikroq {
+        margin-right: 100px;
+    } */
+    .orta-2 p {
+        width: 400px;
+    }
+}
+@media (max-width: 840px) {
+    .container {
+        width: 700px;
+    }
+    .tepa-sarlavha {
+        margin-top: 120px;
+    }
+    .deyarli-ohiri {
+        display: flex;
+        margin-left: 80px;
+    }
+    .deyarli-ohiri li {
+        padding: 10px 35px;
+        color: #fff;
+    }
+    .rasm-uchun-5 {
+        background-color: #fff;
+        background-image: url(../img/galati.png), url(../img/ohiri.png);
+        background-repeat: no-repeat;
+        background-size: contain cover, 1140px;
+        background-position: top center, top center;
+    
+    }
+    .rasm-uchun-3 {
+        background-image: url(../img/bg-img-3.png), url(../img/bg-img-2.png);
+        background-repeat: no-repeat;
+        background-size: contain cover, 1140px;
+        background-position: top -200 center, center;
+    }
+    .rasm-uchun-2 {
+        background-image: none;
+        background: #5454D4;
+        /* background-color: #fff;
+        background-image:  url(../img/paski-oval-1.svg), url(../img/rasm11.png);
+        background-repeat: no-repeat;
+        background-size: contain cover, contain;
+        background-position: bottom -2% center, top center; */
+    }
+    .rasm-uchun {
+        background-image: url(../img/oval.png);
+        background-repeat: no-repeat;
+        background-size: 560px;
+        background-position: top left;
+    }
+    .tepa-2-1 {
+        margin-left: 80px;
+    }
+    .orta-argenal {
+        display: block;
+        margin-left: 80px;
+    }
+    .orta-1 {
+        margin-left: -50px;
+    }
+    .tuzatish-2 {
+        margin-left: 200px;
+        margin-top: 300px;
+        position: absolute;
+    }
+    .pasroq-ohri {
+        margin-top: 400px;
+    }
+    .tuzatish-1 {
+        width: 350px;
+        position: absolute;
+        margin-top: 270px;
+        margin-left: 200px;
+    }
+    .orta-2 {
+        width: 500px;
+    }
+    .tepa-2-3 {
+        margin-bottom: 100px;
+        padding-bottom: 100px;
+    }
+    .img-5 {
+        margin-left: 200px;
+    }
+    .tepa-sarlavha {
+        margin-left: 200px;
+    }
+    .tepa-sarlavha p {
+        width: 450px;
+    }
+    .tepa-2-3 h2 {
+        width: 500px;
+        margin-left: 150px;
+    }
+    .eng-oson-1 {
+        margin-left: 200px;
+    }
+    .katta-orta-tepa {
+        display: block;
+    }
+    .tepa-2-3 p {
+        margin-left: 150px;
+        width: 450px;
+    }
+    .input-qismi p {
+        margin-top: 15px;
+        width: 520px;
+        text-align: center;
+        margin-left: 100px;
+        font-size: 21px;
+        line-height: 39px
+        letter-spacing: -0.656526px;
+        margin-bottom: 20px;
+        color: rgba(255, 255, 255, 0.7);
+    }
+    button {
+        width: 400px;
+        margin-top: 5px;
+        border-radius: 10px;
+        padding: 15px;
+        margin-left: 150px;
+        background: #F04037;
+        color: white;
+        font-size: 21px;
+    }
+    .input1 {
+        width: 400px;
+        border-radius: 10px;
+        padding: 20px;
+        margin-top: 10px;
+        margin-left: 150px;
+    }
+    .eng-oson-img {
+        margin-left: 100px;
+        margin-top: 100px;
+    }
+    .eng-oson {
+        display: block;
+        margin-left: -100px;
+    }
+    .tepa-2-3 a {
+        margin-left: 150px;
+    }
+    /* .eng-ohiri-img {
+        margin-right: 120px;
+    } */
+    .tepa-orginal {
+        display: block;
+
+    }
+    .eng-ohiri-img {
+        display: none;
+    }
+    .tepa-paski-img img {
+        width: 110px;
+        margin: 20px 30px;
+        filter: grayscale(100%);
+        transition: filter 0.2s ease;
+    }
+    /* .tepa-kichikroq {
+        margin-right: 100px;
+    } */
+    .orta-2 p {
+        width: 400px;
+    }
+}
+@media (max-width: 740px) {
+    .container {
+        width: 600px;
+    }
+    .tepa-sarlavha {
+        margin-top: 120px;
+    }
+    .deyarli-ohiri {
+        display: flex;
+        margin-left: 20px;
+    }
+    .deyarli-ohiri li {
+        padding: 10px 35px;
+        color: #fff;
+    }
+    .rasm-uchun-5 {
+        background-color: #fff;
+        background-image: url(../img/galati.png), url(../img/ohiri.png);
+        background-repeat: no-repeat;
+        background-size: contain cover, 1140px;
+        background-position: top center, top center;
+    
+    }
+    .rasm-uchun-3 {
+        background-image: url(../img/bg-img-3.png), url(../img/bg-img-2.png);
+        background-repeat: no-repeat;
+        background-size: contain cover, 1140px;
+        background-position: top -200 center, center;
+    }
+    .rasm-uchun-2 {
+        background-image: none;
+        background: #5454D4;
+        /* background-color: #fff;
+        background-image:  url(../img/paski-oval-1.svg), url(../img/rasm11.png);
+        background-repeat: no-repeat;
+        background-size: contain cover, contain;
+        background-position: bottom -2% center, top center; */
+    }
+    .rasm-uchun {
+        background-image: url(../img/oval.png);
+        background-repeat: no-repeat;
+        background-size: 560px;
+        background-position: top left;
+    }
+    .tepa-2-1 {
+        margin-left: 50px;
+    }
+    .orta-argenal {
+        display: block;
+        margin-left: 10px;
+    }
+    .tuzatish-3 {
+        position: absolute;
+        margin-left: 150px;
+        margin-top: 220px;
+        position: absolute;
+    }
+    .tuzatish-5 {
+        position: absolute;
+        margin-left: 150px;
+        margin-top: 0px;
+        position: absolute;
+    }
+    .tuzatish-4 {
+        width: 350px;
+        position: absolute;
+        margin-left: 150px;
+        margin-top: 280px;
+        position: absolute;
+    }
+    .tuzatish-6 {
+        width: 350px;
+        position: absolute;
+        margin-left: 150px;
+        margin-top: 60px;
+        position: absolute;
+    }
+    .tuzatish-2 {
+        margin-left: 150px;
+        margin-top: 480px;
+        position: absolute;
+    }
+    .tuzatish-1 {
+        width: 350px;
+        position: absolute;
+        margin-top: 540px;
+        margin-left: 150px;
+        margin-bottom: 200px;
+    }
+    .pasroq-ohri {
+        margin-bottom: 100px;
+        padding-top: 300px;
+    }
+    .pasroq-ohri {
+        margin-top: 400px;
+    }
+    
+    .orta-2 {
+        width: 500px;
+    }
+    .tepa-2-3 {
+        margin-bottom: 100px;
+        padding-bottom: 100px;
+        margin-left: -50px;
+    }
+    .img-5 {
+        margin-left: 100px;
+    }
+    .tepa-sarlavha {
+        margin-left: 120px;
+    }
+    .tepa-2-3 h2 {
+        width: 500px;
+        margin-left: 100px;
+    }
+    .eng-oson-1 {
+        margin-left: 200px;
+    }
+    .katta-orta-tepa {
+        display: block;
+        margin-left: -100px;
+    }
+    .tepa-2-3 p {
+        margin-left: 100px;
+        width: 450px;
+    }
+    .input-qismi p {
+        margin-top: 15px;
+        width: 520px;
+        text-align: center;
+        margin-left: 50px;
+        font-size: 21px;
+        line-height: 39px
+        letter-spacing: -0.656526px;
+        margin-bottom: 20px;
+        color: rgba(255, 255, 255, 0.7);
+    }
+    button {
+        width: 400px;
+        margin-top: 5px;
+        border-radius: 10px;
+        padding: 15px;
+        margin-left: 100px;
+        background: #F04037;
+        color: white;
+        font-size: 21px;
+    }
+    .input1 {
+        width: 400px;
+        border-radius: 10px;
+        padding: 20px;
+        margin-top: 10px;
+        margin-left: 100px;
+    }
+    .ohiri {
+        display: block;
+    }
+    .ohiri h3 {
+        margin-top: -30px;
+        margin-left: 200px;
+        margin-bottom: 40px;
+    }
+    .deyarli-ohiri {
+        margin-left: -40px;
+    }
+    .eng-oson-img {
+        margin-left: 140px;
+        margin-top: 100px;
+    }
+    .eng-oson {
+        display: block;
+        margin-left: -200px;
+    }
+    .tepa-2-3 a {
+        margin-left: 100px;
+    }
+    /* .eng-ohiri-img {
+        margin-right: 120px;
+    } */
+    .tepa-orginal {
+        display: block;
+
+    }
+    .eng-ohiri-img {
+        display: none;
+    }
+    .tepa-paski-img img {
+        width: 110px;
+        margin: 20px 30px;
+        filter: grayscale(100%);
+        transition: filter 0.2s ease;
+    }
+    .deyarli-ohiri li {
+        padding: 10px 20px 10px 32px;
+        color: #fff;
+    }
+    /* .tepa-kichikroq {
+        margin-right: 100px;
+    } */
+    .orta-2 p {
+        width: 400px;
+    }
+}
+@media (max-width: 640px) {
+    .container {
+        width: 500px;
+    }
+    .tepa-sarlavha {
+        margin-top: 120px;
+    }
+   .tepa-paski-img {
+       display: none;
+   }
+    .deyarli-ohiri {
+        display: flex;
+        margin-left: 20px;
+    }
+    .deyarli-ohiri li {
+        padding: 10px 35px;
+        color: #fff;
+    }
+    .rasm-uchun-5 {
+        background-color: #fff;
+        background-image: url(../img/galati.png), url(../img/ohiri.png);
+        background-repeat: no-repeat;
+        background-size: contain cover, 1140px;
+        background-position: top center, top center;
+    
+    }
+    .rasm-uchun-3 {
+        background-image: url(../img/bg-img-3.png), url(../img/bg-img-2.png);
+        background-repeat: no-repeat;
+        background-size: contain cover, 1140px;
+        background-position: top -200 center, center;
+    }
+    .rasm-uchun-2 {
+        background-image: none;
+        background: #5454D4;
+        /* background-color: #fff;
+        background-image:  url(../img/paski-oval-1.svg), url(../img/rasm11.png);
+        background-repeat: no-repeat;
+        background-size: contain cover, contain;
+        background-position: bottom -2% center, top center; */
+    }
+    .rasm-uchun {
+        background-image: none;
+        /* background-image: url(../img/oval.png);
+        background-repeat: no-repeat;
+        background-size: 560px;
+        background-position: top left; */
+    }
+    .tepa-2-1 {
+        margin-left: 0px;
+    }
+    .orta-argenal {
+        display: block;
+        margin-left: 10px;
+    }
+    .tuzatish-3 {
+        position: absolute;
+        margin-left: 100px;
+        margin-top: 220px;
+        position: absolute;
+    }
+    .tuzatish-5 {
+        position: absolute;
+        margin-left: 100px;
+        margin-top: 0px;
+        position: absolute;
+    }
+    .tuzatish-4 {
+        width: 350px;
+        position: absolute;
+        margin-left: 100px;
+        margin-top: 280px;
+        position: absolute;
+    }
+    .tuzatish-6 {
+        width: 350px;
+        position: absolute;
+        margin-left: 100px;
+        margin-top: 60px;
+        position: absolute;
+    }
+    .tuzatish-2 {
+        margin-left: 100px;
+        margin-top: 480px;
+        position: absolute;
+    }
+    .tuzatish-1 {
+        width: 350px;
+        position: absolute;
+        margin-top: 540px;
+        margin-left: 100px;
+        margin-bottom: 200px;
+    }
+    .pasroq-ohri {
+        margin-bottom: 100px;
+        padding-top: 300px;
+    }
+    .pasroq-ohri {
+        margin-top: 400px;
+    }
+    
+    .orta-2 {
+        width: 500px;
+    }
+    .tepa-2-3 {
+        margin-bottom: 100px;
+        padding-bottom: 100px;
+        margin-left: -50px;
+    }
+    .img-5 {
+        margin-left: 100px;
+    }
+    .tepa-sarlavha {
+        margin-left: 120px;
+    }
+    .tepa-2-3 h2 {
+        width: 500px;
+        margin-left: 100px;
+    }
+    .eng-oson-1 {
+        margin-left: 200px;
+    }
+    .katta-orta-tepa {
+        display: block;
+        margin-left: -100px;
+    }
+    .tepa-2-3 p {
+        margin-left: 100px;
+        width: 450px;
+    }
+    .input-qismi p {
+        margin-top: 15px;
+        width: 520px;
+        text-align: center;
+        margin-left: 0px;
+        font-size: 21px;
+        line-height: 39px
+        letter-spacing: -0.656526px;
+        margin-bottom: 20px;
+        color: rgba(255, 255, 255, 0.7);
+    }
+    button {
+        width: 400px;
+        margin-top: 5px;
+        border-radius: 10px;
+        padding: 15px;
+        margin-left: 50px;
+        background: #F04037;
+        color: white;
+        font-size: 21px;
+    }
+    .input1 {
+        width: 400px;
+        border-radius: 10px;
+        padding: 20px;
+        margin-top: 10px;
+        margin-left: 50px;
+    }
+    .ohiri {
+        display: block;
+    }
+    .ohiri h3 {
+        margin-top: -30px;
+        margin-left: 150px;
+        margin-bottom: 40px;
+    }
+    .deyarli-ohiri {
+        margin-left: -40px;
+    }
+    .eng-oson-img {
+        margin-left: 140px;
+        margin-top: 100px;
+    }
+    .eng-oson {
+        display: block;
+        margin-left: -200px;
+    }
+    .tepa-2-3 a {
+        margin-left: 100px;
+    }
+    /* .eng-ohiri-img {
+        margin-right: 120px;
+    } */
+    .tepa-orginal {
+        display: block;
+
+    }
+    .eng-ohiri-img {
+        display: none;
+    }
+    .tepa-paski-img img {
+        width: 110px;
+        margin: 20px 30px;
+        filter: grayscale(100%);
+        transition: filter 0.2s ease;
+    }
+    .ohiri {
+        margin-right: -20px;
+    }
+    .deyarli-ohiri li {
+        padding: 10px 20px 10px 40px;
+        color: #fff;
+    }
+    .deyarli-ohiri {
+        display: flex;
+        margin-left: -80px;
+    }
+    /* .tepa-kichikroq {
+        margin-right: 100px;
+    } */
+    .orta-2 p {
+        width: 400px;
+    }
+}
+@media (max-width: 540px) {
+    .container {
+        width: 400px;
+    }
+    .tepa-kichikroq {
+        display: none;
+    }
+    .tepa-2-1 {
+        display: block;
+    }
+    .responsive {
+        display: flex;
+        margin: 10px;
+        padding: 10px;
+        background-color: red;
+        color: #fff;
+        align-items: center;
+    }
+    .responsive img {
+        width: 25px;
+    }
+    .tepa-paski-img {
+        display: none;
+    }
+    .eng-oson-1 h2 {
+        font-size: 40px;
+    }
+    .eng-oson-1 p {
+        width: 350px;
+    }
+    .tepa-sarlavha {
+        margin-top: 120px;
+    }
+    .tepa-paski-img {
+        display: none;
+    }
+    .deyarli-ohiri {
+        display: flex;
+        margin-left: 20px;
+    }
+    .deyarli-ohiri li {
+        padding: 10px 35px;
+        color: #fff;
+    }
+    .rasm-uchun-5 {
+        background-color: #fff;
+        background-image: url(../img/galati.png), url(../img/ohiri.png);
+        background-repeat: no-repeat;
+        background-size: contain cover, 1140px;
+        background-position: top center, top center;
+    
+    }
+    .rasm-uchun-3 {
+        background-image: url(../img/bg-img-3.png), url(../img/bg-img-2.png);
+        background-repeat: no-repeat;
+        background-size: contain cover, 1140px;
+        background-position: top -200 center, center;
+    }
+    .rasm-uchun-2 {
+        background-image: none;
+        background: #5454D4;
+        /* background-color: #fff;
+        background-image:  url(../img/paski-oval-1.svg), url(../img/rasm11.png);
+        background-repeat: no-repeat;
+        background-size: contain cover, contain;
+        background-position: bottom -2% center, top center; */
+    }
+    .rasm-uchun {
+        background-image: url(../img/oval.png);
+        background-repeat: no-repeat;
+        background-size: 560px;
+        background-position: top left;
+    }
+    .tepa-2-1 {
+        margin-left: 90px;
+    }
+    .orta-argenal {
+        display: block;
+        margin-left: 10px;
+    }
+    .tuzatish-3 {
+        position: absolute;
+        margin-left: 50px;
+        margin-top: 220px;
+        position: absolute;
+    }
+    .tuzatish-5 {
+        position: absolute;
+        margin-left: 50px;
+        margin-top: 0px;
+        position: absolute;
+    }
+    .tuzatish-4 {
+        width: 350px;
+        position: absolute;
+        margin-left: 50px;
+        margin-top: 280px;
+        position: absolute;
+    }
+    .tuzatish-6 {
+        width: 350px;
+        position: absolute;
+        margin-left: 50px;
+        margin-top: 60px;
+        position: absolute;
+    }
+    .tuzatish-2 {
+        margin-left: 50px;
+        margin-top: 480px;
+        position: absolute;
+    }
+    .tuzatish-1 {
+        width: 350px;
+        position: absolute;
+        margin-top: 540px;
+        margin-left: 50px;
+        margin-bottom: 200px;
+    }
+    .pasroq-ohri {
+        margin-bottom: 100px;
+        padding-top: 300px;
+    }
+    .pasroq-ohri {
+        margin-top: 400px;
+    }
+    
+    .orta-2 {
+        width: 500px;
+    }
+    .tepa-2-3 {
+        margin-bottom: 100px;
+        padding-bottom: 100px;
+        margin-left: -50px;
+    }
+    .img-5 {
+        margin-left: 100px;
+    }
+    .tepa-2-3 h2 {
+        width: 500px;
+        margin-left: 50px;
+    }
+    .eng-oson-1 {
+        margin-left: 200px;
+    }
+    .katta-orta-tepa {
+        display: block;
+        margin-left: -100px;
+    }
+    .tepa-2-3 p {
+        margin-left: 50px;
+        width: 450px;
+    }
+    .input-qismi p {
+        margin-top: 15px;
+        width: 400px;
+        text-align: center;
+        margin-left: 0px;
+        font-size: 21px;
+        line-height: 39px
+        letter-spacing: -0.656526px;
+        margin-bottom: 20px;
+        color: rgba(255, 255, 255, 0.7);
+    }
+    button {
+        width: 400px;
+        margin-top: 5px;
+        border-radius: 10px;
+        padding: 15px;
+        margin-left: 0px;
+        background: #F04037;
+        color: white;
+        font-size: 21px;
+    }
+    .input1 {
+        width: 400px;
+        border-radius: 10px;
+        padding: 20px;
+        margin-top: 10px;
+        margin-left: 0px;
+    }
+    .ohiri {
+        display: block;
+    }
+    .ohiri h3 {
+        margin-top: -30px;
+        margin-left: 100px;
+        margin-bottom: 40px;
+    }
+    .deyarli-ohiri {
+        margin-left: -40px;
+    }
+    .orta-1 img {
+        width: 450px;
+    }
+    .orta-2 h2 {
+        font-size: 40px;
+        width: 400px;
+    }
+    .heding h2 {
+        font-size: 40px;
+        width: 400px;
+    }
+    .eng-oson-img {
+        margin-left: 0px;
+        margin-top: 100px;
+    }
+    .eng-oson-img img {
+        margin-left: 140px;
+        margin-top: 100px;
+        width: 450px;
+    }
+    .eng-oson {
+        display: block;
+        margin-left: -200px;
+    }
+    .tepa-2-3 a {
+        margin-left: 50px;
+    }
+    /* .eng-ohiri-img {
+        margin-right: 120px;
+    } */
+    .tepa-orginal {
+        display: block;
+
+    }
+    .eng-ohiri-img {
+        display: none;
+    }
+    .tepa-paski-img img {
+        width: 110px;
+        margin: 20px 30px;
+        filter: grayscale(100%);
+        transition: filter 0.2s ease;
+    }
+    .ohiri {
+        margin-right: -70px;
+    }
+    .deyarli-ohiri li {
+        padding: 10px 20px 10px 30px;
+        color: #fff;
+    }
+    .deyarli-ohiri {
+        display: flex;
+        margin-left: -120px;
+    }
+    /* .tepa-kichikroq {
+        margin-right: 100px;
+    } */
+    .orta-2 p {
+        width: 400px;
+    }
+}
+@media (max-width: 440px) {
+    .container {
+        width: 300px;
+    }
+    .tepa-kichikroq {
+        display: none;
+    }
+    .tepa-2-1 {
+        display: block;
+    }
+    .responsive {
+        display: flex;
+        margin: 10px;
+        padding: 10px;
+        background-color: red;
+        color: #fff;
+        align-items: center;
+    }
+    .responsive img {
+        width: 25px;
+    }
+    .tepa-paski-img {
+        display: none;
+    }
+    .tepa-sarlavha h2 {
+        font-size: 40px;
+        width: 300px;
+    }
+    .tepa-sarlavha p {
+        width: 300px;
+    }
+    .eng-oson-1 h2 {
+        font-size: 40px;
+    }
+    .eng-oson-1 p {
+        width: 250px;
+    }
+    .tepa-sarlavha {
+        margin-top: 120px;
+    }
+    .tepa-paski-img {
+        display: none;
+    }
+    .deyarli-ohiri {
+        display: flex;
+        margin-left: 20px;
+    }
+    .deyarli-ohiri li {
+        padding: 10px 35px;
+        color: #fff;
+    }
+    .rasm-uchun-5 {
+        background-color: #fff;
+        background-image: url(../img/galati.png), url(../img/ohiri.png);
+        background-repeat: no-repeat;
+        background-size: contain cover, 1140px;
+        background-position: top center, top center;
+    
+    }
+    .rasm-uchun-3 {
+        background-image: url(../img/bg-img-3.png), url(../img/bg-img-2.png);
+        background-repeat: no-repeat;
+        background-size: contain cover, 1140px;
+        background-position: top -200 center, center;
+    }
+    .rasm-uchun-2 {
+        background-image: none;
+        background: #5454D4;
+        /* background-color: #fff;
+        background-image:  url(../img/paski-oval-1.svg), url(../img/rasm11.png);
+        background-repeat: no-repeat;
+        background-size: contain cover, contain;
+        background-position: bottom -2% center, top center; */
+    }
+    .rasm-uchun {
+        background-image: none;
+        /* background-image: url(../img/oval.png);
+        background-repeat: no-repeat;
+        background-size: 560px;
+        background-position: top left; */
+    }
+    .tepa-2-1 {
+        margin-left: 20px;
+    }
+    .orta-argenal {
+        display: block;
+        margin-left: 10px;
+    }
+    .tuzatish-3 {
+        position: absolute;
+        margin-left: 0px;
+        margin-top: 220px;
+        position: absolute;
+    }
+    .tuzatish-5 {
+        position: absolute;
+        margin-left: 0px;
+        margin-top: 0px;
+        position: absolute;
+    }
+    .tuzatish-4 {
+        width: 350px;
+        position: absolute;
+        margin-left: 0px;
+        margin-top: 280px;
+        position: absolute;
+    }
+    .tuzatish-6 {
+        width: 350px;
+        position: absolute;
+        margin-left: 0px;
+        margin-top: 60px;
+        position: absolute;
+    }
+    .tuzatish-2 {
+        margin-left: 0px;
+        margin-top: 480px;
+        position: absolute;
+    }
+    .tuzatish-1 {
+        width: 350px;
+        position: absolute;
+        margin-top: 540px;
+        margin-left: 0px;
+        margin-bottom: 200px;
+    }
+    .pasroq-ohri {
+        margin-bottom: 100px;
+        padding-top: 300px;
+    }
+    .pasroq-ohri {
+        margin-top: 400px;
+    }
+    .tepa-2-3 {
+        margin-bottom: 100px;
+        padding-bottom: 100px;
+        margin-left: -50px;
+    }
+    .img-5 {
+        margin-left: 100px;
+    }
+    .tepa-2-3 h2 {
+        font-size: 40px;
+        width: 350px;
+        margin-left: 50px;
+    }
+    .eng-oson-1 {
+        margin-left: 150px;
+    }
+    .orta-1 img {
+        width: 350px;
+    }
+    .katta-orta-tepa {
+        display: block;
+        margin-left: -100px;
+    }
+    .tepa-2-3 p {
+        margin-left: 50px;
+        width: 350px;
+    }
+    .input-qismi p {
+        margin-top: 15px;
+        width: 350px;
+        text-align: center;
+        margin-left: 0px;
+        font-size: 21px;
+        line-height: 39px
+        letter-spacing: -0.656526px;
+        margin-bottom: 20px;
+        color: rgba(255, 255, 255, 0.7);
+    }
+    button {
+        width: 350px;
+        margin-top: 5px;
+        border-radius: 10px;
+        padding: 15px;
+        margin-left: 0px;
+        background: #F04037;
+        color: white;
+        font-size: 21px;
+    }
+    .input1 {
+        width: 350px;
+        border-radius: 10px;
+        padding: 20px;
+        margin-top: 10px;
+        margin-left: 0px;
+    }
+    .ohiri {
+        display: block;
+    }
+    .ohiri h3 {
+        margin-top: -30px;
+        margin-left: 50px;
+        margin-bottom: 40px;
+    }
+    .deyarli-ohiri {
+        margin-left: -80px;
+    }
+    .orta-1 img {
+        width: 350px;
+    }
+    .orta-2 h2 {
+        font-size: 40px;
+        width: 300px;
+    }
+    .orta-2 p {
+        width: 200px;
+    }
+    .heding h2 {
+        font-size: 40px;
+        width: 350px;
+    }
+    .eng-oson-img {
+        margin-left: 0px;
+        margin-top: 100px;
+    }
+    .eng-oson-img img {
+        margin-left: 140px;
+        margin-top: 100px;
+        width: 450px;
+    }
+    .eng-oson {
+        display: block;
+        margin-left: -200px;
+    }
+    .tepa-2-3 a {
+        margin-left: 50px;
+    }
+    /* .eng-ohiri-img {
+        margin-right: 120px;
+    } */
+    .tepa-orginal {
+        display: block;
+
+    }
+    .eng-ohiri-img {
+        display: none;
+    }
+    .tepa-paski-img img {
+        width: 110px;
+        margin: 20px 30px;
+        filter: grayscale(100%);
+        transition: filter 0.2s ease;
+    }
+    .ohiri {
+        margin-right: -70px;
+    }
+    .deyarli-ohiri li {
+        padding: 10px 20px 10px 30px;
+        color: #fff;
+    }
+    .deyarli-ohiri {
+        display: flex;
+        margin-left: -120px;
+    }
+    /* .tepa-kichikroq {
+        margin-right: 100px;
+    } */
+    .orta-2 p {
+        width: 300px;
+    }
+    .orta-2 {
+        margin-left: -20px;
+    }
+}
