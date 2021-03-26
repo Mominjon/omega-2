@@ -8,6 +8,9 @@
     .orta-2 p {
         width: 450px;
     }
+    .tepa-sarlavha {
+        margin-left: 100px;
+    }
 }
 @media (max-width: 1040px) {
     .container {
